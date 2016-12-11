@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="TicTacToe" type="Ruby" />
-      <mapping pattern="tictactoe" type="Ruby" />
-    </extensionMap>
-  </component>
-</application>
